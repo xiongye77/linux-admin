@@ -39,3 +39,10 @@ We'll get you used to using systemctl to view systemd's environment, settings, v
 
 ![image](https://user-images.githubusercontent.com/36766101/209544030-8399b750-a7b1-47e0-81b9-3f7e7fc4947f.png)
 
+# Use journalctl to record events on Linux
+
+![image](https://user-images.githubusercontent.com/36766101/209545072-355c15a4-846e-49b9-88c7-e08220b2b642.png)
+![image](https://user-images.githubusercontent.com/36766101/209545408-22f74935-5a8b-4749-a781-7b1404f50abb.png)
+![image](https://user-images.githubusercontent.com/36766101/209545858-dea52d1a-3d61-430c-a378-22aa3c9ce2b1.png)
+![image](https://user-images.githubusercontent.com/36766101/209546565-d639a543-4eef-4eb2-82df-7c413dfaca68.png)
+
