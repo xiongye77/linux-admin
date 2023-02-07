@@ -1,5 +1,25 @@
 # linux-admin
 
+# Boot order of RHEL
+
+![image](https://user-images.githubusercontent.com/36766101/217381477-cb13e487-8d6d-4fe1-b91d-a8cff0768d06.png)
+
+
+# Analyse system boot time use systemd-analyze blame
+
+![image](https://user-images.githubusercontent.com/36766101/217383089-b3c149be-781e-4848-bfe7-9d3b8c2b2d5b.png)
+
+
+# Check which services are installed in the local Linux system  use  systemctl list-unit-files --type service and systemctl list-dependencies service-name and  systemctl get-default and systemctl set-default 
+
+![image](https://user-images.githubusercontent.com/36766101/217384049-9dd9784b-0c85-4e24-a91b-2682cb4e3289.png)
+
+![image](https://user-images.githubusercontent.com/36766101/217384085-7410cb9f-9fd5-46a3-84ec-fe1d6be6336b.png)
+
+![image](https://user-images.githubusercontent.com/36766101/217384317-9c967016-c870-4c26-84b9-7bbfb1fe7581.png)
+
+![image](https://user-images.githubusercontent.com/36766101/217384894-be1a9801-f608-4a15-83ab-224ffd081864.png)
+
 
 # Troubleshoot Library Dependency Issues on Linux
 
