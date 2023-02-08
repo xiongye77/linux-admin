@@ -66,3 +66,9 @@ We'll get you used to using systemctl to view systemd's environment, settings, v
 ![image](https://user-images.githubusercontent.com/36766101/209545858-dea52d1a-3d61-430c-a378-22aa3c9ce2b1.png)
 ![image](https://user-images.githubusercontent.com/36766101/209546565-d639a543-4eef-4eb2-82df-7c413dfaca68.png)
 
+# Tuned profile setting
+
+![image](https://user-images.githubusercontent.com/36766101/217404506-47987c57-6780-43bf-9ae1-169e503d0d2b.png)
+![image](https://user-images.githubusercontent.com/36766101/217404747-c222b13e-d1ce-4b81-abe3-959b0fdf09bb.png)
+
+
