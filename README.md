@@ -72,3 +72,15 @@ We'll get you used to using systemctl to view systemd's environment, settings, v
 ![image](https://user-images.githubusercontent.com/36766101/217404747-c222b13e-d1ce-4b81-abe3-959b0fdf09bb.png)
 
 
+
+# Amazon Linux 2 NetworkManager
+yum install NetworkManager
+![image](https://user-images.githubusercontent.com/36766101/226061543-4e58b909-2f3d-4ffc-8f74-80e07cd09a86.png)
+![image](https://user-images.githubusercontent.com/36766101/226061676-91d95e76-5973-4595-a3c4-2d1603883d04.png)
+![image](https://user-images.githubusercontent.com/36766101/226061789-cb4f9038-ab58-41da-b22d-0bb07aa83ee1.png)
+![image](https://user-images.githubusercontent.com/36766101/226062100-3e2cffe7-d08e-4126-898a-f2526fb58f09.png)
+![image](https://user-images.githubusercontent.com/36766101/226063451-a55515bd-83ad-4c70-88c3-309b07d235cd.png)
+
+![image](https://user-images.githubusercontent.com/36766101/226062972-940fa3d6-fa73-4bf3-82b4-25c0e080406a.png)
+![image](https://user-images.githubusercontent.com/36766101/226063067-c2f30c17-e794-48d3-be9c-9f748a75fc7c.png)
+
