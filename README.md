@@ -80,7 +80,10 @@ yum install NetworkManager
 ![image](https://user-images.githubusercontent.com/36766101/226061789-cb4f9038-ab58-41da-b22d-0bb07aa83ee1.png)
 ![image](https://user-images.githubusercontent.com/36766101/226062100-3e2cffe7-d08e-4126-898a-f2526fb58f09.png)
 ![image](https://user-images.githubusercontent.com/36766101/226063451-a55515bd-83ad-4c70-88c3-309b07d235cd.png)
+![image](https://user-images.githubusercontent.com/36766101/226065878-57fa9c3d-dc2f-48d0-a5dc-1534b88bdb31.png)
+![image](https://user-images.githubusercontent.com/36766101/226067028-f5c5043f-0c8a-4be1-a71c-b690e58d4d76.png)
 
 ![image](https://user-images.githubusercontent.com/36766101/226062972-940fa3d6-fa73-4bf3-82b4-25c0e080406a.png)
 ![image](https://user-images.githubusercontent.com/36766101/226063067-c2f30c17-e794-48d3-be9c-9f748a75fc7c.png)
+![image](https://user-images.githubusercontent.com/36766101/226066061-0cc875ae-939f-472f-95bd-87fd949c5efc.png)
 
