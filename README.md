@@ -87,3 +87,16 @@ yum install NetworkManager
 ![image](https://user-images.githubusercontent.com/36766101/226063067-c2f30c17-e794-48d3-be9c-9f748a75fc7c.png)
 ![image](https://user-images.githubusercontent.com/36766101/226066061-0cc875ae-939f-472f-95bd-87fd949c5efc.png)
 
+
+
+# Linux kernerl images review and set
+ more /proc/cmdline and  dmesg |grep "Command line" and sysctl 
+ 
+![image](https://user-images.githubusercontent.com/36766101/226761099-50968e45-2ccd-42c3-a984-a5d911e2c8e6.png)
+![image](https://user-images.githubusercontent.com/36766101/226761883-a5bc3092-8cf8-4d1e-9348-ca8da66cb4c4.png)
+
+Write variable from command line
+![image](https://user-images.githubusercontent.com/36766101/226764074-1e4e4184-192a-4266-9670-e3fa618ea071.png)
+
+![image](https://user-images.githubusercontent.com/36766101/226764023-85db9015-6a2e-4b3f-af0a-8379ce2f058b.png)
+
