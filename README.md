@@ -112,6 +112,10 @@ htop/iotop/nmon/glances (pip3 install glances)/mpstat/iostat/vmstat
 ![image](https://user-images.githubusercontent.com/36766101/226790559-7e830c26-608f-4586-b001-1ce51c68320c.png)
 ![image](https://user-images.githubusercontent.com/36766101/226793198-10992afb-b346-4901-9754-0c8dbf55391e.png)
 
+[root@ip-10-42-149-184 nmonchart]# glances -w -p 8080
+Glances Web User Interface started on http://0.0.0.0:8080/
+![image](https://user-images.githubusercontent.com/36766101/226896103-04622034-d40a-41e2-957a-621023c49254.png)
+
 
 # nmon batch mode collect data and show use nmonchart
 nmon -f -s60 -c60 -t  ( -s for collection interval and -c for the number of snapshots, including capturing of top processes -t)
