@@ -145,4 +145,12 @@ yum list available/yum list --installed/yum whatprovides [file_name]
  dnf -y install https://dl.fedoraproject.org/pub/epel/epel-release-latest-9.noarch.rpm / dnf repolist/ dnf list available package-name
  ![image](https://user-images.githubusercontent.com/36766101/226873046-8dda9649-bf6a-4801-aae9-758c164d9b78.png)
 
+
+# nmap and tcpdump for traffic analyse 
  
+nmap -A -F  10.42.149.184
+![image](https://user-images.githubusercontent.com/36766101/227052369-85e4603b-8c39-495a-86e1-794bbf2c3b54.png)
+
+ tcpdump -i eth0 src 10.240.9.87
+![image](https://user-images.githubusercontent.com/36766101/227054866-c613fb03-9d09-4868-91b4-779d8cc4a35d.png)
+
