@@ -100,3 +100,8 @@ Write variable from command line
 
 ![image](https://user-images.githubusercontent.com/36766101/226764023-85db9015-6a2e-4b3f-af0a-8379ce2f058b.png)
 
+# Managing and Optimizing kernel behaviour through modules
+lsmod/modinfo/modprobe (add/remove modules to/from kernel modprobe (-r) module_name)
+
+![image](https://user-images.githubusercontent.com/36766101/226777484-c148a3a9-bbde-4aff-824e-c60d74d8108d.png)
+
