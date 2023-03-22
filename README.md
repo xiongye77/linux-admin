@@ -105,3 +105,19 @@ lsmod/modinfo/modprobe (add/remove modules to/from kernel modprobe (-r) module_n
 
 ![image](https://user-images.githubusercontent.com/36766101/226777484-c148a3a9-bbde-4aff-824e-c60d74d8108d.png)
 
+
+# Analyze system and application performance
+htop/iotop/nmon/glances (pip3 install glances)/mpstat/iostat/vmstat
+![image](https://user-images.githubusercontent.com/36766101/226790487-faea927b-8b16-4007-8bde-ed74fb7f75a1.png)
+![image](https://user-images.githubusercontent.com/36766101/226790559-7e830c26-608f-4586-b001-1ce51c68320c.png)
+![image](https://user-images.githubusercontent.com/36766101/226793198-10992afb-b346-4901-9754-0c8dbf55391e.png)
+
+# valgrind to check memory leak
+![image](https://user-images.githubusercontent.com/36766101/226800152-85d81d4c-8cea-478f-b0e8-6e9a61e50a77.png)
+
+
+
+# yum package 
+
+yum group list/yum group install "group-name"/yum group info 'Development Tools' -v/yum list installed package-name/yum list available package-name/yum check-update/ yum check-update package-name/yum update (-y)
+![image](https://user-images.githubusercontent.com/36766101/226840604-3b116048-63a6-4e70-9f8d-e875a6952dea.png)
