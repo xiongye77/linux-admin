@@ -120,4 +120,15 @@ htop/iotop/nmon/glances (pip3 install glances)/mpstat/iostat/vmstat
 # yum package 
 
 yum group list/yum group install "group-name"/yum group info 'Development Tools' -v/yum list installed package-name/yum list available package-name/yum check-update/ yum check-update package-name/yum update (-y)
+
+yum list available/yum list --installed/yum whatprovides [file_name] 
 ![image](https://user-images.githubusercontent.com/36766101/226840604-3b116048-63a6-4e70-9f8d-e875a6952dea.png)
+![image](https://user-images.githubusercontent.com/36766101/226863703-56e46d8b-ead8-46b8-8e55-2c5eb3a5f604.png)
+![image](https://user-images.githubusercontent.com/36766101/226867727-f1da4d94-2e99-4974-8b0b-25f2d8396779.png)
+ 
+ 
+ # dnf package management
+ dnf -y install https://dl.fedoraproject.org/pub/epel/epel-release-latest-9.noarch.rpm / dnf repolist 
+ ![image](https://user-images.githubusercontent.com/36766101/226873046-8dda9649-bf6a-4801-aae9-758c164d9b78.png)
+
+ 
