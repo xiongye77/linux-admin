@@ -112,6 +112,16 @@ htop/iotop/nmon/glances (pip3 install glances)/mpstat/iostat/vmstat
 ![image](https://user-images.githubusercontent.com/36766101/226790559-7e830c26-608f-4586-b001-1ce51c68320c.png)
 ![image](https://user-images.githubusercontent.com/36766101/226793198-10992afb-b346-4901-9754-0c8dbf55391e.png)
 
+
+# nmon batch mode collect data and show use nmonchart
+nmon -f -s60 -c60 -t  ( -s for collection interval and -c for the number of snapshots, including capturing of top processes -t)
+
+curl -LO http://sourceforge.net/projects/nmon/files/nmonchart40.tar
+
+./nmonchart /root/ip-10-42-149-184_230322_1055.nmon /var/www/html/nmon.html
+
+![image](https://user-images.githubusercontent.com/36766101/226893091-0be3d55c-4bad-4169-b19f-7c7e8c7ed33f.png)
+https://www.redhat.com/sysadmin/monitor-linux-performance-nmon
 # valgrind to check memory leak
 ![image](https://user-images.githubusercontent.com/36766101/226800152-85d81d4c-8cea-478f-b0e8-6e9a61e50a77.png)
 
@@ -128,7 +138,7 @@ yum list available/yum list --installed/yum whatprovides [file_name]
  
  
  # dnf package management
- dnf -y install https://dl.fedoraproject.org/pub/epel/epel-release-latest-9.noarch.rpm / dnf repolist 
+ dnf -y install https://dl.fedoraproject.org/pub/epel/epel-release-latest-9.noarch.rpm / dnf repolist/ dnf list available package-name
  ![image](https://user-images.githubusercontent.com/36766101/226873046-8dda9649-bf6a-4801-aae9-758c164d9b78.png)
 
  
