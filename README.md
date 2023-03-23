@@ -148,9 +148,18 @@ yum list available/yum list --installed/yum whatprovides [file_name]
 
 # nmap and tcpdump for traffic analyse 
  
-nmap -A -F  10.42.149.184
+nmap -A -F  10.42.149.184 (nmap -sU -F ip-address for UDP ports scan)
+
 ![image](https://user-images.githubusercontent.com/36766101/227052369-85e4603b-8c39-495a-86e1-794bbf2c3b54.png)
 
  tcpdump -i eth0 src 10.240.9.87
 ![image](https://user-images.githubusercontent.com/36766101/227054866-c613fb03-9d09-4868-91b4-779d8cc4a35d.png)
 
+![image](https://user-images.githubusercontent.com/36766101/227101010-a01ad94e-12f0-4f29-b655-1a1f55c48767.png)
+
+# ss and lsof
+ ss is used to dump socket statistics. It allows showing information similar to netstat.  It can display more TCP and state information than other tools.
+ 
+ ss -tlnp /netstat -antlp/lsof -i TCP:22/lsof -p pid
+![image](https://user-images.githubusercontent.com/36766101/227106049-3f51409d-5773-46b4-9f10-0bf8a50726d4.png)
+![image](https://user-images.githubusercontent.com/36766101/227107597-fe587b84-6433-49e2-ad75-cbc6002f4fb9.png)
