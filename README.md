@@ -163,3 +163,10 @@ nmap -A -F  10.42.149.184 (nmap -sU -F ip-address for UDP ports scan)
  ss -tlnp /netstat -antlp/lsof -i TCP:22/lsof -p pid
 ![image](https://user-images.githubusercontent.com/36766101/227106049-3f51409d-5773-46b4-9f10-0bf8a50726d4.png)
 ![image](https://user-images.githubusercontent.com/36766101/227107597-fe587b84-6433-49e2-ad75-cbc6002f4fb9.png)
+
+
+# network manager and if-cfg compare
+![image](https://user-images.githubusercontent.com/36766101/227114571-bb644651-0307-44c5-a0e7-fbb7d2115b84.png)
+![image](https://user-images.githubusercontent.com/36766101/227114609-d79cf12a-58f6-482c-9c52-ce1fa119f908.png)
+![image](https://user-images.githubusercontent.com/36766101/227115439-de138752-0f80-4ac8-8756-136061c2f798.png)
+![image](https://user-images.githubusercontent.com/36766101/227115083-985d61a0-5511-4f9d-9c74-8d55d7a880f4.png)
