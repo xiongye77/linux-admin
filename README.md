@@ -204,6 +204,22 @@ hostnamectl set-hostname new-hostname
 ![image](https://user-images.githubusercontent.com/36766101/227172917-010a33b8-372a-4862-bda1-edb0c60443ff.png)
 
 
+# Systemd 
+systemctl status httpd  --with-dependencies
+ ![image](https://user-images.githubusercontent.com/36766101/227195385-7f62a7f8-7acf-43e9-88c8-a907a91bad26.png)
+systemctl  list-dependencies
+![image](https://user-images.githubusercontent.com/36766101/227195726-3f5fa855-a38a-46f1-ba95-778eed04e5d4.png)
+ps -xawf
+![image](https://user-images.githubusercontent.com/36766101/227196351-0594b8c9-b754-4581-ba1d-4f19988d4c95.png)
 
 ![image](https://user-images.githubusercontent.com/36766101/227177693-7a79d88e-af71-42f7-b4d0-ddcce4635dd0.png)
+![image](https://user-images.githubusercontent.com/36766101/227192006-be389c04-feea-465d-9c5e-4d4d9dd11577.png)
+![image](https://user-images.githubusercontent.com/36766101/227193218-0f6d1c80-5802-4fc2-bacb-dd6ba76dd0bc.png)
+
+![image](https://user-images.githubusercontent.com/36766101/227197549-0c7a8a84-ac72-4a45-991f-f53019c8c2cd.png)
+![image](https://user-images.githubusercontent.com/36766101/227198182-4aa70063-3ee6-458f-ad6f-1def5fcd759a.png)
+systemctl/systemctl -a 
+![image](https://user-images.githubusercontent.com/36766101/227199348-ce7c9f3d-7d9b-4817-9cc6-62ef733f66a7.png)
+![image](https://user-images.githubusercontent.com/36766101/227199831-30b7fd36-4e22-43cf-8e0d-cd82124ceb77.png)
+
 
