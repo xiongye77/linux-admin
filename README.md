@@ -66,6 +66,25 @@ We'll get you used to using systemctl to view systemd's environment, settings, v
 ![image](https://user-images.githubusercontent.com/36766101/209545858-dea52d1a-3d61-430c-a378-22aa3c9ce2b1.png)
 ![image](https://user-images.githubusercontent.com/36766101/209546565-d639a543-4eef-4eb2-82df-7c413dfaca68.png)
 
+systemctl list-unit-files --all  list all units 
+
+![image](https://user-images.githubusercontent.com/36766101/227140014-d8c9bd8b-43af-4160-b6af-ae4a49ca0b4c.png)
+
+Filtering logs of specific units/daemons/services.
+journalctl -u unit-name 
+![image](https://user-images.githubusercontent.com/36766101/227140397-b4984fb6-5a9c-4c5c-a3b0-5ddaa13d2443.png)
+
+journalctl --disk-usage
+
+Getting kernel logs.
+Sometimes we need to check if the kernel is working properly or if something went wrong obtain information that help us solve the problem.
+Getting kernel logs is very straight forward, we would use journalctl plus the -k option.
+![image](https://user-images.githubusercontent.com/36766101/227141917-6fe5a9c3-aeb7-494e-b24a-7e9673fd87a7.png)
+
+
+ systemctl  status unit-name -l
+![image](https://user-images.githubusercontent.com/36766101/227146241-13f77241-05eb-4415-ac66-c977a4e82822.png)
+
 # Tuned profile setting
 
 ![image](https://user-images.githubusercontent.com/36766101/217404506-47987c57-6780-43bf-9ae1-169e503d0d2b.png)
@@ -170,3 +189,21 @@ nmap -A -F  10.42.149.184 (nmap -sU -F ip-address for UDP ports scan)
 ![image](https://user-images.githubusercontent.com/36766101/227114609-d79cf12a-58f6-482c-9c52-ce1fa119f908.png)
 ![image](https://user-images.githubusercontent.com/36766101/227115439-de138752-0f80-4ac8-8756-136061c2f798.png)
 ![image](https://user-images.githubusercontent.com/36766101/227115083-985d61a0-5511-4f9d-9c74-8d55d7a880f4.png)
+
+
+# hostnamectl to set hostname
+hostnamectl set-hostname new-hostname
+![image](https://user-images.githubusercontent.com/36766101/227154069-42a2524e-b3ce-4172-91f6-212fdd6992eb.png)
+
+# rsyslog is a powerful, secure and high-performance log processing system which accepts data from different types of source (systems/applications) and outputs it into multiple formats.It can also used to centralize all servers logs together.
+![image](https://user-images.githubusercontent.com/36766101/227160149-36f140b4-7567-4416-ae7d-2d34d182c122.png)
+
+# ip link command 
+![image](https://user-images.githubusercontent.com/36766101/227169642-1e4e48b0-fa8a-44d6-9db3-257f42e9f9ff.png)
+![image](https://user-images.githubusercontent.com/36766101/227169988-9b1ba8c4-bf61-4d3b-bd3a-35c210614ea1.png)
+![image](https://user-images.githubusercontent.com/36766101/227172917-010a33b8-372a-4862-bda1-edb0c60443ff.png)
+
+
+
+![image](https://user-images.githubusercontent.com/36766101/227177693-7a79d88e-af71-42f7-b4d0-ddcce4635dd0.png)
+
