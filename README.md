@@ -221,5 +221,22 @@ ps -xawf
 systemctl/systemctl -a 
 ![image](https://user-images.githubusercontent.com/36766101/227199348-ce7c9f3d-7d9b-4817-9cc6-62ef733f66a7.png)
 ![image](https://user-images.githubusercontent.com/36766101/227199831-30b7fd36-4e22-43cf-8e0d-cd82124ceb77.png)
+ systemctl list-units --type service --state active
+![image](https://user-images.githubusercontent.com/36766101/227394242-7f1cc957-4d34-40b5-8ade-f4bceb4f3100.png)
+![image](https://user-images.githubusercontent.com/36766101/227397907-39b36dc4-e947-4705-863a-6fc54964fdef.png)
+![image](https://user-images.githubusercontent.com/36766101/227399610-5388cc26-a768-482e-b4d9-2d88300363bc.png)
+
+![image](https://user-images.githubusercontent.com/36766101/227404903-b1c08f7a-bdcf-412c-ae31-6a0f18b3c33e.png)
+
+![image](https://user-images.githubusercontent.com/36766101/227413242-d46423fc-5afd-437a-9b12-2e1d2269c29c.png)
+![image](https://user-images.githubusercontent.com/36766101/227417366-c9001730-5922-48d1-964c-f514b2eeda56.png)
+
+# loginctl
+![image](https://user-images.githubusercontent.com/36766101/227400556-97c82d6f-9390-4609-b412-c520eb9a5036.png)
+![image](https://user-images.githubusercontent.com/36766101/227400655-433837dc-ddfe-4a0f-83f1-8a9713c3a19d.png)
+
+#timedatectl
+![image](https://user-images.githubusercontent.com/36766101/227402496-e1513701-a19c-496d-b037-128a7beb04ea.png)
+
 
 
