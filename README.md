@@ -243,5 +243,8 @@ systemctl/systemctl -a
 #timedatectl
 ![image](https://user-images.githubusercontent.com/36766101/227402496-e1513701-a19c-496d-b037-128a7beb04ea.png)
 
+#nc  netcat is a computer networking utility for reading from and writing to network connections using TCP or UDP.
+![image](https://user-images.githubusercontent.com/36766101/230498142-6ef9e337-264e-4550-8635-ceb40285c992.png)
+
 
 
