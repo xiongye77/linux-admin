@@ -240,16 +240,19 @@ systemctl/systemctl -a
 ![image](https://user-images.githubusercontent.com/36766101/227400556-97c82d6f-9390-4609-b412-c520eb9a5036.png)
 ![image](https://user-images.githubusercontent.com/36766101/227400655-433837dc-ddfe-4a0f-83f1-8a9713c3a19d.png)
 
-#timedatectl
+# timedatectl
 ![image](https://user-images.githubusercontent.com/36766101/227402496-e1513701-a19c-496d-b037-128a7beb04ea.png)
 
-#nc  netcat is a computer networking utility for reading from and writing to network connections using TCP or UDP.
+# nc  netcat is a computer networking utility for reading from and writing to network connections using TCP or UDP.
 ![image](https://user-images.githubusercontent.com/36766101/230498142-6ef9e337-264e-4550-8635-ceb40285c992.png)
 
 
-#firewall-cmd 
+# firewall-cmd 
 ![image](https://user-images.githubusercontent.com/36766101/233237501-166ee509-8b40-4ab5-9080-a99d9dbef79a.png)
 ![image](https://user-images.githubusercontent.com/36766101/233235915-c37d7ef2-b5fb-403a-8f0b-533c6881aa3f.png)
 ![image](https://user-images.githubusercontent.com/36766101/233237622-785bcef7-bc3d-47b4-ae5b-18075e4b7238.png)
 
 
+# selinux
+![image](https://user-images.githubusercontent.com/36766101/233239091-7c36db48-9d67-45e4-b1a8-e6212dcd1df8.png)
+![image](https://user-images.githubusercontent.com/36766101/233239505-c32cac7f-0d42-494b-8fa9-bfa952123e40.png)
