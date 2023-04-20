@@ -247,4 +247,9 @@ systemctl/systemctl -a
 ![image](https://user-images.githubusercontent.com/36766101/230498142-6ef9e337-264e-4550-8635-ceb40285c992.png)
 
 
+#firewall-cmd 
+![image](https://user-images.githubusercontent.com/36766101/233237501-166ee509-8b40-4ab5-9080-a99d9dbef79a.png)
+![image](https://user-images.githubusercontent.com/36766101/233235915-c37d7ef2-b5fb-403a-8f0b-533c6881aa3f.png)
+![image](https://user-images.githubusercontent.com/36766101/233237622-785bcef7-bc3d-47b4-ae5b-18075e4b7238.png)
+
 
