@@ -256,3 +256,9 @@ systemctl/systemctl -a
 # selinux
 ![image](https://user-images.githubusercontent.com/36766101/233239091-7c36db48-9d67-45e4-b1a8-e6212dcd1df8.png)
 ![image](https://user-images.githubusercontent.com/36766101/233239505-c32cac7f-0d42-494b-8fa9-bfa952123e40.png)
+
+
+# logrotate 
+![image](https://github.com/xiongye77/linux-admin/assets/36766101/5b62773a-d2cc-4ff1-825b-9940974fb608)
+![image](https://github.com/xiongye77/linux-admin/assets/36766101/a7bd9b90-2739-4a05-96fc-74d414a28084)
+
