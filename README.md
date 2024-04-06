@@ -292,3 +292,19 @@ Sample of SOAPUIRequest
 ![image](https://github.com/xiongye77/linux-admin/assets/36766101/3dec4043-5125-4f07-89a4-1b667becda0b)
 ![image](https://github.com/xiongye77/linux-admin/assets/36766101/953203f1-d7a3-412b-a4ed-c6faf5511203)
 
+
+# Kali Linux
+Kali Linux is a Debian-based Linux distribution specifically designed for digital forensics and penetration testing. It is developed and maintained by Offensive Security, a leading provider of security training and penetration testing services.
+
+Kali Linux comes pre-installed with numerous penetration testing tools, including tools for:
+
+Network scanning and reconnaissance.
+Web application analysis and exploitation.
+Wireless network analysis and exploitation.
+Password cracking.
+Forensic analysis.
+Reverse engineering.
+Social engineering.
+Some of the popular tools included in Kali Linux are Nmap, Wireshark, Metasploit Framework, Burp Suite, John the Ripper, Aircrack-ng, and many more.
+
+Kali Linux is widely used by cybersecurity professionals, ethical hackers, penetration testers, and security researchers for various purposes, including security assessments, vulnerability assessments, and security training.
