@@ -262,3 +262,33 @@ systemctl/systemctl -a
 ![image](https://github.com/xiongye77/linux-admin/assets/36766101/5b62773a-d2cc-4ff1-825b-9940974fb608)
 ![image](https://github.com/xiongye77/linux-admin/assets/36766101/a7bd9b90-2739-4a05-96fc-74d414a28084)
 
+
+
+# Directory bursting
+
+DIRB is a popular Linux command-line tool used to scan and bruteforce directories on web applications. It enumerates possible directories from a wordlist against a website URL.
+sudo apt install dirb or sudo yum update/sudo yum install gcc make libcurl libcurl-devel/wget https://github.com/v0re/dirb/archive/master.zip/unzip master.zip/cd dirb-master
+./configure ,make/sudo make install
+![image](https://github.com/xiongye77/linux-admin/assets/36766101/0369128e-d9df-40a7-b76f-501be02c7b51)
+
+# SQL Injection 
+
+The --technique=B option in SQLmap specifies the SQL injection technique to be used during the scanning process. Specifically, B stands for "Boolean-based blind" injection technique.
+
+Boolean-based blind injection is a type of SQL injection where the application's response changes based on whether the injected SQL query returns true or false. SQLmap can exploit this behavior by sending SQL injection payloads and analyzing the application's responses to infer the structure and content of the database.
+
+Here's a brief explanation of how Boolean-based blind injection works:
+
+SQLmap sends a series of SQL injection payloads to the application.
+It analyzes the responses to determine if the injected query is evaluated as true or false.
+Based on the application's responses, SQLmap infers information about the underlying database structure, such as table and column names, and data content.
+Using --technique=B in SQLmap tells the tool to focus on exploiting SQL injection vulnerabilities using the Boolean-based blind technique. This can be particularly useful when other techniques like error-based or time-based blind injection are not effective or not applicable.
+
+However, it's important to note that the effectiveness of the Boolean-based blind technique depends on various factors such as the complexity of the injected SQL query, the application's response time, and the configuration of the database server. Additionally, using SQL injection tools like SQLmap should only be done with proper authorization and on systems you own or have explicit permission to test. Unauthorized use of such tools can lead to legal consequences.
+
+![image](https://github.com/xiongye77/linux-admin/assets/36766101/0378fa2b-24a4-4e59-b4f7-d7cc337581d3)
+Sample of SOAPUIRequest 
+![image](https://github.com/xiongye77/linux-admin/assets/36766101/4c22d6b2-52f2-42f3-b253-b9a7cc44a44d)
+![image](https://github.com/xiongye77/linux-admin/assets/36766101/3dec4043-5125-4f07-89a4-1b667becda0b)
+![image](https://github.com/xiongye77/linux-admin/assets/36766101/953203f1-d7a3-412b-a4ed-c6faf5511203)
+
