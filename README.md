@@ -176,6 +176,10 @@ nmap -A -F  10.42.149.184 (nmap -sU -F ip-address for UDP ports scan)
 
 ![image](https://user-images.githubusercontent.com/36766101/227052369-85e4603b-8c39-495a-86e1-794bbf2c3b54.png)
 
+nmap -O -sV target_ip -Pn 
+
+![image](https://github.com/user-attachments/assets/31b6ec8b-f333-416c-b536-7a5a1a1d1a15)
+
  tcpdump -i eth0 src 10.240.9.87
 ![image](https://user-images.githubusercontent.com/36766101/227054866-c613fb03-9d09-4868-91b4-779d8cc4a35d.png)
 
