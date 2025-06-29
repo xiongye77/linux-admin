@@ -180,10 +180,14 @@ nmap -O -sV target_ip -Pn
 
 ![image](https://github.com/user-attachments/assets/31b6ec8b-f333-416c-b536-7a5a1a1d1a15)
 
+<img width="967" alt="image" src="https://github.com/user-attachments/assets/f08ea9cb-e208-4590-bf84-755a5264e613" />
+
+
  tcpdump -i eth0 src 10.240.9.87
 ![image](https://user-images.githubusercontent.com/36766101/227054866-c613fb03-9d09-4868-91b4-779d8cc4a35d.png)
 
 ![image](https://user-images.githubusercontent.com/36766101/227101010-a01ad94e-12f0-4f29-b655-1a1f55c48767.png)
+
 
 # ss and lsof
  ss is used to dump socket statistics. It allows showing information similar to netstat.  It can display more TCP and state information than other tools.
